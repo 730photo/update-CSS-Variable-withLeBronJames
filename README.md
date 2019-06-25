@@ -3,6 +3,15 @@
 This is exercise 3 of the #JavaScript30.<br>
 in this project I created CSS variables with my own photography.<br>
 
+Things I learned:
+
+-div controls
+-
+
+Goals:
+
+-make this mobile responsive
+
 
 1.<img width="1440" alt="Screen Shot 2019-06-23 at 7 14 25 PM" src="https://user-images.githubusercontent.com/29503790/59983269-a46d7200-95eb-11e9-8440-f30503ab9a64.png">
 
