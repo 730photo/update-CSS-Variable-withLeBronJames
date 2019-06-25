@@ -3,6 +3,8 @@
 This is exercise 3 of the #JavaScript30.<br>
 in this project I created CSS variables with my own photography.<br>
 
+In this project I set up CSS variables then applied event listeners for the input fields so that I trigger a function anytime the input is scrolled or changed.
+
 
 
 Things I learned:
