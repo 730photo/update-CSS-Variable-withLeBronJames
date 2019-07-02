@@ -18,6 +18,8 @@ Goals:
 <ul>
   <li> make this mobile responsive </li>
   </ul>
+  
+ Deployed App: https://tender-hamilton-0f14b9.netlify.com
 
 
 1.<img width="1440" alt="Screen Shot 2019-06-23 at 7 14 25 PM" src="https://user-images.githubusercontent.com/29503790/59983269-a46d7200-95eb-11e9-8440-f30503ab9a64.png">
